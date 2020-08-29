@@ -3,3 +3,4 @@
 This is workspace for BigMini Conf demo at CODE CHRYSALIS.
 
 
+![](title.jpg)
